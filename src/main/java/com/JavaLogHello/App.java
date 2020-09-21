@@ -12,7 +12,7 @@ public class App
     public static void main( String[] args )
     {
     	
-    	String message="Hello Java World!!!";
+    	String message="Hello World!!!";
     	Log.debug(message+" Debug Message");
     	Log.info(message+" Info Message");
     	Log.warn(message+" Warn Message");
