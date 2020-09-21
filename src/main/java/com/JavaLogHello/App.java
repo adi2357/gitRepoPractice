@@ -19,6 +19,6 @@ public class App
     	Log.error(message+" Error Message");
     	Log.fatal(message+" Fatal Message");
         System.out.println( message );
-	System.out.println("GOODBYE!!!, AND SEE YOU SOON");
+	System.out.println("GOODBYE!!!, AND TAKE CARE");
     }
 }
